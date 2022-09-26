@@ -11,7 +11,7 @@
  * 
  */
 
-$config['base_url'] = "http://localhost/Unitop.vn/Back-end/Exercise/section-26-ex1/usersmvc.vn/";
+$config['base_url'] = "http://localhost/usersmvc.vn/";
 
 
 $config['default_module'] = 'home';
